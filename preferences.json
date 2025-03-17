@@ -1,0 +1,8 @@
+[
+  {
+    "property": "wtf403.titlebar",
+    "label": "Hide titlebar",
+    "type": "checkbox",
+    "defaultValue": false
+  }
+]
